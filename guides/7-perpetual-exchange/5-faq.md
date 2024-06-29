@@ -117,3 +117,4 @@ Both positions will be combined into one position, where
 - Size = initial collateral \* leverage level.
 
 The TP/SL you have set earlier will remain the same after the positions are combined.
+(what about the time of entry? does it keep the original or the latest position created? or does it average that too? please add example for this.)
